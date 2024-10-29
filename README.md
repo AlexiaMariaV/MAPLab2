@@ -32,3 +32,8 @@ App objective:
 -offering a smooth experience of purchasing and evaluating games
 -ensuring an intuitive interface for both user and administrator
 -efficient management of game inventory and user orders
+
+
+
+UML:
+![UML MAP](https://github.com/user-attachments/assets/70295447-e638-4f7e-86a5-6ae4651ab162)
