@@ -2,11 +2,13 @@
 Online video game store
 
 Short description:
+
 On the app, users can browse, search and purchase video games of various genres (strategy, action, horror, etc.). They have the option to rate and leave reviews for purchased games. Administrators manage the game catalog, prices and discounts.
 
 Application features:
 
 Customers:
+
 -can register and authenticate
 
 -have an id, name, password, fund wallet, game library, review list
@@ -19,6 +21,7 @@ Customers:
 
 
 Developers:
+
 -can do the same things as customers
 
 -have an additional attribute: the list of published games
@@ -27,6 +30,7 @@ Developers:
 
 
 Games:
+
 -have an id, a name, a description, a genre, reviews, a price
 
 -after purchase, the game will appear in the user's library
@@ -35,6 +39,7 @@ Games:
 
 
 Admins:
+
 -have an id, name, password
 
 -have access to the database
@@ -43,6 +48,7 @@ Admins:
 
 
 App objective:
+
 -offering a smooth experience of purchasing and evaluating games
 
 -ensuring an intuitive interface for both user and administrator
