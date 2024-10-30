@@ -59,5 +59,6 @@ App objective:
 
 
 UML:
-![mermaid-diagram-2024-10-30-100558](https://github.com/user-attachments/assets/01989fb0-4759-4ee2-9037-aeb675f12094)
+![Screenshot 2024-10-30 101130](https://github.com/user-attachments/assets/2493d375-429a-4b45-91ba-b632f215af2d)
+
 
