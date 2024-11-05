@@ -19,6 +19,8 @@ Customers:
 
 -can add more games to the shopping cart and can purchase them only if they have sufficient funds in the platform wallet
 
+-can add money into the platform wallet through the payment type of their choice(Paypal, Visa, Applepay etc.)
+
 
 Developers:
 
@@ -51,7 +53,7 @@ App objective:
 
 -offering a smooth experience of purchasing and evaluating games
 
--ensuring an intuitive interface for both user and administrator
+-ensuring an intuitive interface for all users
 
 -efficient management of game inventory and user orders
 
