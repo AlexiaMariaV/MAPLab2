@@ -59,6 +59,7 @@ App objective:
 
 
 UML:
-![Screenshot 2024-10-30 101130](https://github.com/user-attachments/assets/2493d375-429a-4b45-91ba-b632f215af2d)
+![umlmap](https://github.com/user-attachments/assets/63d610e0-99f2-4594-a8d2-cc9faed4f46a)
+
 
 
